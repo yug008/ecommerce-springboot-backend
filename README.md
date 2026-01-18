@@ -19,15 +19,15 @@ It exposes REST APIs for managing products and demonstrates clean backend archit
 
 🛠 Tech Stack
 
-•Language: Java
+• Language: Java
 
-•Framework: Spring Boot
+• Framework: Spring Boot
 
-•ORM: Spring Data JPA / Hibernate
+• ORM: Spring Data JPA / Hibernate
 
-•Database: H2 (in-memory)
+• Database: H2 (in-memory)
 
-•Build Tool: Maven
+• Build Tool: Maven
 
 📁Project Structure:
 
@@ -41,29 +41,29 @@ src
 
 ⚙️ Setup & Run:
 
-Clone the repository - git clone https://github.com/yug008/ecommerce-springboot-backend.git
+• Clone the repository - git clone https://github.com/yug008/ecommerce-springboot-backend.git
 
-Run the application - mvn spring-boot:run
+• Run the application - mvn spring-boot:run
 
-Application runs on: http://localhost:8080
+• Application runs on: http://localhost:8080
 
-H2 Console (if enabled): http://localhost:8080/h2-console
+• H2 Console (if enabled): http://localhost:8080/h2-console
 
 🔧 Known Limitations:
 
-•Image upload feature is a work in progress
+• Image upload feature is a work in progress
 
-•Frontend is maintained in a separate repository
+• Frontend is maintained in a separate repository
 
 📌 Future Improvements:
 
-•Complete multipart image upload support
+• Complete multipart image upload support
 
-•Add authentication and authorization
+• Add authentication and authorization
 
-•Switch to MySQL or PostgreSQL for production
+• Switch to MySQL or PostgreSQL for production
 
-•Add Swagger / OpenAPI documentation
+• Add Swagger / OpenAPI documentation
 
 👤 Author
 

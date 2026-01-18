@@ -49,6 +49,10 @@ src
 
 • H2 Console (if enabled): http://localhost:8080/h2-console
 
+🔗 Related Repository:
+
+• Frontend (React): https://github.com/yug008/ecommerce-react-frontend
+
 🔧 Known Limitations:
 
 • Image upload feature is a work in progress
